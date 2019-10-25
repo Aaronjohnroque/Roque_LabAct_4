@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Roque_LabAct_4</string>
+    <string-array name="verTitle">
+        <item>ICBC</item>
+        <item>JP Morgan Chase</item>
+        <item>China Construction Bank</item>
+        <item>Agricultural Bank of China</item>
+        <item>Bank Of America</item>
+
+    </string-array>
+    <string-array name="verCountry">
+        <item>Country: China</item>
+        <item>Country: United States</item>
+        <item>Country: China</item>
+        <item>Country: China</item>
+        <item>Country: United States</item>
+
+    </string-array>
+    <string-array name="verIndustry">
+        <item>Industry: Major Banks</item>
+        <item>Industry: none</item>
+        <item>Industry: Major Banks</item>
+        <item>Industry: Regional Banks</item>
+        <item>Industry: Major Banks</item>
+
+    </string-array>
+    <string-array name="verCeo">
+        <item>CEO: Shu Gu</item>
+        <item>CEO: Jamie Dimon</item>
+        <item>CEO: Wang Zuji</item>
+        <item>CEO: Huan Zhao</item>
+        <item>CEO: Brian Moynihan</item>
+
+    </string-array>
+
+    <string-array name="verSum">
+    <item>Industrial and Commercial Bank of China Ltd. engages in the provision of commercial banking and financial services.
+        It operates through the following business segments: Corporate Banking, Personal Banking, Treasury Operations, and Others.</item>
+
+    <item>JPMorgan Chase and Co. is a financial holding company, which provides financial and investment banking services.
+        It offers a range of investment banking products and services in all major capital markets, including advising on corporate strategy and structure; capital-raising
+        in equity and debt markets; sophisticated risk management; market-making in cash securities and derivative instruments; and prime brokerage and research.</item>
+
+    <item>China Construction Bank Corp. engages in the provision of financial and banking services.
+        It operates through the following segments: Corporate Banking, Personal Banking, Treasury Business, and Others.
+        The Corporate Banking segment includes credit businesses, institutional business services, fund settlement and custody, and corporate e-banking.</item>
+
+    <item>Agricultural Bank of China engages in the provision of international commercial banking and financial services.
+        The company operates its business through the following segments: Corporate Banking, Personal Banking, Treasury Operations and Others and Unallocated.
+        The Corporate Banking segment provides financial products and services to corporations, government agencies and financial institutions. </item>
+
+    <item>Bank of America Corp. is a bank and financial holding company, which engages in the provision of banking and nonbank financial services.
+        It operates through the following segments: Consumer Banking, Global Wealth and Investment Management, Global Banking, Global Markets, and Legacy Assets and Servicing.
+        The Consumer Banking segment offers credit, banking, and investment products and services to consumers and small businesses.</item>
+
+    </string-array>s
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
